@@ -1,11 +1,88 @@
-{
-'1':
 [
-{
-"name":"pravin"
-"age"::31"
-"branch":"cse"
-}
-
+    {
+        "0": "Would you like to make a gadget to replace women, that can work like her in the kitchen?",
+        "2": "When there is a major power cut in the city what do you do?",
+        "3": "You have gone to a village where the students of 9th class don’t have a science teacher in their school. What kind of step would you like to take to improve the situation?",
+        "4": "You are visiting your grandmother’s village where there is supply of unhygienic drinking water. What would you like to do for benefits of villagers?",
+        "5": "In a workshop where there is odor of spirit, petroleum, paint etc will you be able to spend a day?",
+        "6": "If you are the DM of the city which one of the following would you like to do for traffic control?",
+        "7": "You are fed up of frequent fuse faults in your society building during exams. As an alternative measure what would you like to do?",
+        "8": "Will you be comfortable to work on heavy machines in summer season that make lot of noise and are placed amidst heavy dust?",
+        "9": "When a TV or Fridge or Washing Machine gets damaged in your home, someone comes to repair it; do you closely watch the mechanic working on it?",
+        "1": "Would you prefer to work for long hours sitting on chair with concentration and work on complex project for a whole year?"
+    },
+    {
+        "0": {
+            "a": "Yes I want to make a woman robot",
+            "b": "I read if it smells bad",
+            "c": "I don’t waste time on that",
+            "d": "May be Sometimes"
+        },
+        "2": {
+            "a": "Think about alternate of renewable energy",
+            "b": "Think about the source of fault",
+            "c": "Dial up electricity department to complain",
+            "d": "will play mobile game"
+        },
+        "3": {
+            "a": "move those students to other school",
+            "b": "Teach the students on your laptop about the subject",
+            "c": "Meet village panchayat to request for teachers appointment",
+            "d": "Make a website explaining all science chapters"
+        },
+        "4": {
+            "a": "Help them purify water with chemicals",
+            "b": "Tell them to boil water before use",
+            "c": "will teach tem from youtube how to purify",
+            "d": "Educate them about ill effects of unhygienic water"
+        },
+        "5": {
+            "a": "Yes, I can spend easily",
+            "b": "May be for few hours",
+            "c": "No I feel nausea",
+            "d": "Don't know"
+        },
+        "6": {
+            "a": "Build good roads and flyways",
+            "b": "Promote use of public transport",
+            "c": "Replace it with signal at every lane",
+            "d": "Promote traffic rules and regulations"
+        },
+        "7": {
+            "a": "Make a fuse free lighting device",
+            "b": "will move to rich colony",
+            "c": "Find a permanent solution to mend the fuse",
+            "d": "Have a permanent electrician in the society"
+        },
+        "8": {
+            "a": "Yes I can",
+            "b": "May be for some time",
+            "c": "No I will not prefer that",
+            "d": "will automate so i will be free to do other stuff"
+        },
+        "9": {
+            "a": "Yes I keenly observe",
+            "b": "Yes at times I do",
+            "c": "No I don’t like it",
+            "d": "i go for buying new"
+        },
+        "1": {
+            "a": "Yes I would love to do that",
+            "b": "May be for some hours per day",
+            "c": "i can sit for watching tv",
+            "d": "Not more than two hours per day"
+        }
+    },
+    {
+        "0": "Love it",
+        "2": "Love it",
+        "3": "Love it",
+        "4": "Love it",
+        "5": "Love it",
+        "6": "Love it",
+        "7": "Love it",
+        "8": "Love it",
+        "9": "Love it",
+        "1": "Love it"
+    }
 ]
-}
